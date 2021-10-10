@@ -1,4 +1,4 @@
-# ANTENNAE Sandbox: Lightning-Fast Modulation Classification with Hardware-Efficient Neural Networks
+# ANTENNAE Sandbox: A solution to Lightning-Fast Modulation Classification with Hardware-Efficient Neural Networks
 
 This repository provides a Docker-based environment with the solution submitted by team ANTENNAE to the [Lightning-Fast Modulation Classification with Hardware-Efficient Neural Networks](https://challenge.aiforgood.itu.int/match/matchitem/34) problem statement of the [**ITU AI/ML in 5G Challenge**](https://aiforgood.itu.int/ai-ml-in-5g-challenge/). The sandbox environment includes PyTorch and Brevitas. This sanbox is based on the baseline repo (https://github.com/Xilinx/brevitas-radioml-challenge-21) provided by Xilins, the organizer of the problem statement. 
 
